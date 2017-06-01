@@ -12,7 +12,7 @@
  * @file STATICAL LIBRARY
  * @ This library gives mean median maximum and minimum value of the 1-D array
  *
- * <Add Extended Description Here>
+ * accepts array and gives the mean median sort and find maxm and minm
  *
  * @author Deepesh Prakash Guragain
  * @date May 31 2017
