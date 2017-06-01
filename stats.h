@@ -75,8 +75,8 @@ float find_mean(unsigned char test[],int size);
  * @param test is an array input to this function
  * @param size is the length of the array which is input to the function
  * before calculating median the array is sorted in ascending order
- *median value= n/2 th term in even
- *median value=n+1/2 th term in odd
+ *median value= n/2 th term in odd function
+ *median value=n/2-1 for even function
  * @return median value value element of an array value which is integer is return value from this function
  */
 int find_median(unsigned char test[], int size);
